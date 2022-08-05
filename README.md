@@ -2,15 +2,6 @@
 
 A simple finance app to keep track of your daily transactions.
 
-## Getting Started
+![Screenshot_20220805-114436](https://user-images.githubusercontent.com/66758017/183063321-efba2b3c-bd7a-485e-822f-86bbcd3aa351.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220805-114505](https://user-images.githubusercontent.com/66758017/183063351-d5cda56d-b1f2-4977-8074-df9a94d3d446.jpg)
